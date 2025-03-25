@@ -1,0 +1,3 @@
+Dataset Link -  https://www.kaggle.com/datasets/divaniazzahra/mental-health-dataset
+
+This dataset records a global survey conducted to track trends in mental health. The data covers a range of variables such as levels of stress, depression, anxiety, subjective well-being, and use of mental health services. The survey involved respondents from various demographic backgrounds, including gender, employment status, and geographic region. This dataset aims to provide a better understanding of changes in mental health globally over the specified time period.
