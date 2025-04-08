@@ -1,5 +1,12 @@
-🌍 Mental Health Stress Prediction
-This project focuses on analyzing a global mental health dataset and building a machine learning model to predict growing stress levels. Using Decision Tree Classification, the model achieved an impressive 99% F1-score, demonstrating its strong predictive ability.
+# 🌍 Mental Health Stress Prediction
+
+This project focuses on analyzing a global mental health dataset and building a machine learning model to predict **growing stress levels**. Using **Decision Tree Classification**, the model achieved an impressive **99% F1-score**, demonstrating strong predictive performance.
+
+---
+
+## 📂 Repository Structure
+
+
 
 📂 Repository Structure
 Mental-Health-Stress-Prediction/
