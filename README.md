@@ -7,16 +7,16 @@ This project focuses on analyzing a global mental health dataset and building a 
 
 ## 📂 Repository Structure
 
-1. Data Collection
+1. Data Collection: 
 Source information and downloaded dataset.
 
-2. Data Preprocessing
+2. Data Preprocessing: 
 Data cleaning, handling missing values, encoding, etc.
 
-3. Univariate and Bivariate
+3. Univariate and Bivariate: 
 Visualizations and statistical insights for feature understanding.
 
-4. Feature Selection and Model
+4. Feature Selection and Model: 
 Selection of relevant features impacting stress levels and trained model with performance metrics.                                                                                                                             
 
     
