@@ -26,28 +26,39 @@ Mental-Health-Stress-Prediction/
 └── 5. Final Model/
     └── Final model for Deployment
     
-📊 Dataset Overview
 
-Source: Kaggle - Mental Health Dataset
-Goal: Predict individuals experiencing growing stress.
-Variables: Includes stress, depression, anxiety levels, well-being, demographics (gender, employment status, region), and use of mental health services.
-Type: Survey-based global dataset.
+---
 
-🧠 Objective
+## 📊 Dataset Overview
 
-Understand the trends in mental health globally.
-Predict the stress level growth using ML classification techniques.
-Provide actionable insights from analysis to support mental health awareness.
+- **Source**: [Kaggle - Mental Health Dataset](https://www.kaggle.com/datasets/divaniazzahra/mental-health-dataset)
+- **Goal**: Predict individuals experiencing growing stress
+- **Variables**: Includes stress, depression, anxiety levels, well-being, demographics (gender, employment status, region), and use of mental health services
+- **Type**: Survey-based global dataset
 
-✅ Model Performance
-Model: Decision Tree Classifier
-Evaluation Metric: F1 Score
-Achieved: 99% F1 Score
+---
 
-📌 Key Highlights
+## 🧠 Objective
 
-🔍 Performed thorough univariate and bivariate analysis to understand feature distributions and relationships.
-✨ Cleaned dataset and encoded categorical features
-✅ Applied feature selection to retain only the most important attributes.
-🌳 Used Decision Tree, a powerful interpretable model.
-📈 Achieved high accuracy and F1 score, indicating robust model performance.
+- Understand trends in global mental health
+- Predict **stress level growth** using ML classification techniques
+- Provide actionable insights from data analysis to support mental health awareness
+
+---
+
+## ✅ Model Performance
+
+- **Model**: Decision Tree Classifier  
+- **Evaluation Metric**: F1 Score  
+- **Achieved**: ⭐ **99% F1 Score**
+
+---
+
+## 📌 Key Highlights
+
+- 🔍 Performed thorough **univariate and bivariate analysis** to understand feature distributions and relationships  
+- ✨ Cleaned dataset and encoded categorical features  
+- ✅ Applied **feature selection** to retain only the most important attributes  
+- 🌳 Used **Decision Tree**, a powerful and interpretable model  
+- 📈 Achieved high **accuracy** and **F1 score**, indicating robust model performance  
+
