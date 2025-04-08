@@ -4,6 +4,8 @@ This project focuses on analyzing a global mental health dataset and building a 
 
 ---
 
+<pre><code>## 📂 Repository Structure ``` Mental-Health-Stress-Prediction/ │ ├── 1. Data Collection/ │ └── Source information and downloaded dataset │ ├── 2. Data Preprocessing/ │ └── Data cleaning, handling missing values, encoding, etc. │ ├── 3. Univariate and Bivariate/ │ └── Visualizations and statistical insights for feature understanding │ ├── 4. Feature Selection and Model/ │ └── Selection of relevant features impacting stress levels and trained model with performance metrics │ └── 5. Final Model/ └── Final model for deployment ``` </code></pre>
+
 ## 📂 Repository Structure
 │
 ├── 1. Data Collection/                                                                                                                                             
