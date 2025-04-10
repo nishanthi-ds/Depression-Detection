@@ -44,6 +44,12 @@ The best Final Model is Decision Tree. Deployment of the model
 
 ---
 
+## 🔍 Feature Selection Visualization
+
+Below is a visual summary of the feature selection techniques used in this project:
+
+![Feature Selection Plot](images/feature_selection_plot.png)
+
 ## ✅ Model Performance
 
 - **Model**: Decision Tree Classifier  
