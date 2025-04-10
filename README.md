@@ -56,6 +56,9 @@ Below is a visual summary of the feature selection techniques used in this proje
 - **Evaluation Metric**: F1 Score  
 - **Achieved**: ⭐ **99% F1 Score**
 
+The confusion matrix below shows the model's performance:
+
+![Confusion Matrix](images/confusion_matrix.png)
 ---
 
 ## 📌 Key Highlights
