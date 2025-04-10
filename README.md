@@ -17,7 +17,7 @@ Data cleaning, handling missing values, encoding, etc.
 Visualizations and statistical insights for feature understanding.
 
 4. **Feature Selection and Model**: 
-Selection of relevant features impacting stress levels and analyzed Performance of various machine learning models like ligistic regression, SVM, Naive bayes, K Neighbours and Decision Tree
+Selection of relevant features impacting stress levels and analyzed Performance of various machine learning models like logistic regression, SVM, Naive bayes, K Neighbours and Decision Tree
 
 5. **Final Model**:
 The best Final Model is Decision Tree. Deployment of the model
