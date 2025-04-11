@@ -1,11 +1,11 @@
-# 🌍 Mental Health Stress Prediction
+# Mental Health Stress Prediction
 
 This project focuses on analyzing a global mental health dataset and building a machine learning model to predict **growing stress levels**. Using **Decision Tree Classification**, the model achieved an impressive **99% F1-score**, demonstrating strong predictive performance.
 
 ---
 
 
-## 📂 Repository Structure
+## Repository Structure
 
 1. **Data Collection**: 
 Source information and downloaded dataset.
@@ -27,7 +27,7 @@ The best Final Model is Decision Tree. Deployment of the model
 
 ---
 
-## 📊 Dataset Overview
+## Dataset Overview
 
 - **Source**: [Kaggle - Mental Health Dataset](https://www.kaggle.com/datasets/divaniazzahra/mental-health-dataset)
 - **Goal**: Predict individuals experiencing growing stress
@@ -36,7 +36,7 @@ The best Final Model is Decision Tree. Deployment of the model
 
 ---
 
-## 🧠 Objective
+## Objective
 
 - Understand trends in global mental health
 - Predict **stress level growth** using ML classification techniques
@@ -44,13 +44,13 @@ The best Final Model is Decision Tree. Deployment of the model
 
 ---
 
-## 🔍 Feature Selection Visualization
+## Feature Selection Visualization
 
 Below is a visual summary of the feature selection techniques used in this project:
 
 ![Feature Selection Plot](images/feature_selection_plot.png)
 
-## ✅ Model Performance
+## Model Performance
 
 - **Model**: Decision Tree Classifier  
 - **Evaluation Metric**: F1 Score  
@@ -61,7 +61,7 @@ The confusion matrix below shows the model's performance:
 ![Confusion Matrix](images/confusion_matrix.png)
 ---
 
-## 📌 Key Highlights
+## Key Highlights
 
 - 🔍 Performed thorough **univariate and bivariate analysis** to understand feature distributions and relationships  
 - ✨ Cleaned dataset and encoded categorical features  
