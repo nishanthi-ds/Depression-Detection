@@ -30,10 +30,9 @@ def Days_Indoors_encode(value):
 
 
 def predict(social_week,habit, indoors, mental_health, gender,mood_swing,occu, work_inter):
-    # filename = 'Depression_detection_model.sav'
-    # classifier = pickle.load(open(filename, 'rb'))
-    with open('model.pkl', 'rb') as f:
-        classifier = pickle.load(f)
+    filename = 'Depression_detection_model.sav'
+    classifier = pickle.load(open(filename, 'rb'))
+
 
     input_feature = [social_week,habit, indoors, mental_health, gender,mood_swing,occu, work_inter]
     column_names = ['Social_Weakness','Changes_Habits','Days_Indoors','Mental_Health_History','Gender','Mood_Swings',
