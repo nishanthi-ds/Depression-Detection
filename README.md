@@ -1,26 +1,17 @@
-# Mental Health Stress Prediction
+This project focuses on developing a machine learning model to predict growing stress levels using a global mental health dataset. The model utilizes a Decision Tree classifier, known for its interpretability and accuracy. The project includes the following steps:
 
-This project focuses on analyzing a global mental health dataset and building a machine learning model to predict **growing stress levels**. Using **Decision Tree Classification**, the model achieved an impressive **99% F1-score**, demonstrating strong predictive performance.
+1- **Data Collection**: The dataset is sourced from Kaggle's Mental Health Dataset. It includes variables related to stress, depression, anxiety levels, well-being, demographics (such as gender, employment status, region), and use of mental health services.
 
----
+2- **Data Preprocessing**: The dataset undergoes cleaning, including handling missing values and encoding categorical variables. These steps ensure data quality and compatibility with machine learning models.
 
+3- **Univariate and Bivariate Analysis**: Visualizations such as histograms and pair plots are used to explore individual features and relationships between variables. This analysis provides statistical insights into stress predictors.
 
-## Repository Structure
+4- **Feature Selection**: Feature selection techniques are applied to identify the most impactful variables. 
 
-1. **Data Collection**: 
-Source information and downloaded dataset.
+5- **Model**: Comparative Methods: Multiple machine learning models including Logistic Regression, SVM, Naive Bayes, K-Nearest Neighbors, and Decision Tree are trained and evaluated.
+The Decision Tree classifier is chosen as the final model due to its strong performance and interpretability. The model achieves a 99% F1-score, indicating excellent classification capability.
 
-2. **Data Preprocessing**: 
-Data cleaning, handling missing values, encoding, etc.
-
-3. **Univariate and Bivariate**: 
-Visualizations and statistical insights for feature understanding.
-
-4. **Feature Selection and Model**: 
-Selection of relevant features impacting stress levels and analyzed Performance of various machine learning models like logistic regression, SVM, Naive bayes, K Neighbours and Decision Tree
-
-5. **Final Model**:
-The best Final Model is Decision Tree. Deployment of the model
+6- **Model Evaluation**: The model's performance is evaluated using a confusion matrix and key metrics like precision, recall, and F1-score. These metrics confirm the model’s ability to accurately predict individuals experiencing growing stress.
                                                            
 
     
