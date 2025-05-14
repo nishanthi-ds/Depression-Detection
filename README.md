@@ -52,11 +52,9 @@ The confusion matrix below shows the model's performance:
 ![Confusion Matrix](images/confusion_matrix.png)
 ---
 
-## Key Highlights
+## 📊 Result Visualization
 
-- 🔍 Performed thorough **univariate and bivariate analysis** to understand feature distributions and relationships  
-- ✨ Cleaned dataset and encoded categorical features  
-- ✅ Applied **feature selection** to retain only the most important attributes  
-- 🌳 Used **Decision Tree**, a powerful and interpretable model  
-- 📈 Achieved high **accuracy** and **F1 score**, indicating robust model performance  
+Below is a sample plot showing **Actual vs Predicted Insurance Charges**:
 
+![Result: Actual vs Predicted](Screenshot(120).png)
+![Result: Actual vs Predicted](Screenshot(119).png)
