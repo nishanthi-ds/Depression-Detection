@@ -1,3 +1,5 @@
+# Mental Health Stress Prediction
+
 This project focuses on developing a machine learning model to predict growing stress levels using a global mental health dataset. The model utilizes a Decision Tree classifier, known for its interpretability and accuracy. The project includes the following steps:
 
 1- **Data Collection**: The dataset is sourced from Kaggle's Mental Health Dataset. It includes variables related to stress, depression, anxiety levels, well-being, demographics (such as gender, employment status, region), and use of mental health services.
