@@ -56,5 +56,5 @@ The confusion matrix below shows the model's performance:
 
 Below is a sample plot showing **Actual vs Predicted Insurance Charges**:
 
-![Result: Actual vs Predicted](Screenshot (120).png)
-![Result: Actual vs Predicted](Screenshot (119).png)
+![Result: Actual vs Predicted](result1.png)
+![Result: Actual vs Predicted](result2.png)
