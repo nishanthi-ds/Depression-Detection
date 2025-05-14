@@ -52,9 +52,7 @@ The confusion matrix below shows the model's performance:
 ![Confusion Matrix](images/confusion_matrix.png)
 ---
 
-## 📊 Result Visualization
-
-Below is a sample plot showing **Actual vs Predicted Insurance Charges**:
+## Deployment
 
 ![Result: Actual vs Predicted](result1.png)
 ![Result: Actual vs Predicted](result2.png)
